@@ -1,16 +1,5 @@
-# to_do_list
+This is a simple todo app made in flutter. The functions of this app are: 
+1. You can add a task.
+2. You can check the checkbox when you finish the task.
+3. You can delete the completed tasks and add new task to do.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
